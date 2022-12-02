@@ -12,9 +12,5 @@ describe('My Test suite', () =>
       cy.contains("Log in").click()
       //click on program manager
       cy.contains('Program Manager').click()
-      //Navigate back button
-      cy.go('back')
-      cy.go('forward')
-      cy.reload()
     })
 })
