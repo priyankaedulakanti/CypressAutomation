@@ -6,9 +6,7 @@ describe('My Test suite', () =>
     it('site of the page', () =>
     {
       cy.visit("https://demo.automationtesting.in/Windows.html")
-      
-
-      
+        
     })
     it('New Tabbed windows', () =>
     {
