@@ -1,3 +1,4 @@
+//Test alert
 //Cypress can work with alerts by default. The pop-up can be an alert or confirmation popup.
 //Cypress is designed in such a way that it shall always click on the OK button on the pop-up. 
 //Moreover, Cypress has the ability to fire the browser events.
